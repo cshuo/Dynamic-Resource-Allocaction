@@ -22,9 +22,7 @@ DRA用户手册
 
 ###系统配置
 
- - 运行源码包中的Dynamic Resource Allocation/Setup/setup.py文件，配置openstack中的rabbitmq driver
  - 源码包中的Dynamic Resource Allocation/Openstack/Conf/OpenstackConf.py文件中包含对系统的配置信息，其中：
-
 
   + `CONTROLLER_HOST` 主节点ip
   + `COMPUTE1_HOST` 计算节点1 ip
@@ -41,9 +39,7 @@ DRA用户手册
   + `PARAMS` 命令执行环境变量
  
 
-
 ----------
-
 
 ###使用
 
